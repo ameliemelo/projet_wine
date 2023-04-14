@@ -10,3 +10,13 @@ https://cp.copernicus.org/articles/15/1485/2019/
 https://www.nature.com/articles/s41597-022-01367-6#ref-CR29
 
 https://data.world/loliveira1999/portuguese-wine-dataset-from-blogosvinhos
+
+
+
+
+
+
+
+
+GHD année de vendanges
+Le Brix (° Bx) est un moyen de mesurer la teneur en alcool potentielle d'un vin avant sa fabrication en déterminant le taux de sucre dans le raisin.
